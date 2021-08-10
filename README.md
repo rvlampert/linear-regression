@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=nk2CQITm_eo
 
 ## Objective
 
-Train a machine learning model capable of classifying whether the individual is obese from a given size and weight, using linear regression.
+Train a machine learning model capable of classifying whether the individual cancer is malignant or benign using linear regression.
 
 ## Dataset
 

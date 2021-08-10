@@ -1,6 +1,6 @@
 run:
 	@echo "--> Running"
-	@python main.py
+	@python3 main.py
 
 install-dependencies:
 	@echo "--> Installing Python dependencies"
